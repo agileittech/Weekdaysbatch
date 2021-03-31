@@ -1,0 +1,58 @@
+Frameworks
+
+keyword   - 
+data driven
+hybrid (K + d)
+
+TestNG - Java based automation framework (Hybrid --Keywords)
+
+Annotations @
+Priority
+
+*annotations we should always define a method non static 
+1. @Test  -- Testcase
+2. @Before Test -- Pre condition
+3. @After Test -- Post Condition
+4. @Before Method -- Condition runs before Pre & Test
+5. @AfterMethod -- Condition runs after Test and before Post
+6. @BeforeClass -- 
+7. @AfterClass --
+8. @DataProvider -- Supplies data 
+9. @BeforeSuite -- 
+10.@AfterSuite --
+
+Assertions 
+1. Hard Assertion
+2. Soft Assertion
+
+
+OpenURL
+username
+password
+Click
+
+
+Record and Playback tool --> Selenium IDE , Katalon IDE
+
+Behavioral Driven Development [BDD]
+-- Feature    -- Gherkins -- Cucumber  --Maven 
+-- Step file  -- Java + Selenium Code
+-- Runner     -- Junit + Java Code
+
+Given certain thing
+When  an action that needs to take place
+Then  outcome
+And   conjuction
+
+Open Yahoo mail page using selenium
+Read the data from Excel sheet and replace in mail
+
+Github , Perforce , SVN , Tortoise , Sourceforge
+
+Checkin --- Uploading code into SCM
+Checkout -- Downloading code from SCM
+Submit -- Submit code to SCM
+Merge -- Combining Previous code with updated code
+Delete -- Deleting a code
+Repository/Depot -- Storage for all the source code
+
